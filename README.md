@@ -58,10 +58,10 @@ Reason:
 
 | File | Description |
 |---|---|
-| AI_Agent_Prototype.py | Working agent prototype |
-| Framework_Justification.md | LangGraph vs AutoGen vs CrewAI comparison |
-| Agent_Execution_Traces_and_Evaluation.md | ReAct traces and 10-task evaluation |
-| Design_and_Evaluation_Report.md | Final design and evaluation report |
+| AI Agent Prototype.py | Working agent prototype |
+| Framework Justification.md | LangGraph vs AutoGen vs CrewAI comparison |
+| Agent Execution Traces and Evaluation.md | ReAct traces and 10-task evaluation |
+| Design and Evaluation Report.md | Final design and evaluation report |
 
 
 ## How to Run
