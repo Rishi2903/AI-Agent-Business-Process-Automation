@@ -72,7 +72,7 @@ pip install langgraph langchain-anthropic
 
 Run:
 
-python AI_Agent_Prototype.py
+python AI Agent Prototype.py
 
 
 ## Evaluation Summary
