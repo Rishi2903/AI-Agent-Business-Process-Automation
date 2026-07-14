@@ -8,17 +8,29 @@ The agent replaces the manual process where analysts monitor competitor pricing 
 ## Agent Workflow
 
 Competitor Page
+
 ↓
+
 Web Fetch Tool
+
 ↓
+
 Extract Pricing Data
+
 ↓
+
 Snapshot Database Comparison
+
 ↓
+
 Change Classification
+
 ↓
+
 Human Approval (for material changes)
+
 ↓
+
 Generate Report
 
 
